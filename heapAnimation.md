@@ -1,5 +1,5 @@
 # Python_HeapAnimation
-This program shows how a heap is represented as a binary tree
+#This program shows how a heap is represented as a binary tree
 import Tkinter
 import tkMessageBox
 items = []
